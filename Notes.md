@@ -1,6 +1,6 @@
 ##CHARACTERS##
 
-**Nis Ryndrea (Pronounced: "Nihss")**
+**Nis Ryndrea (Pronounced: "Nihss")**
 
 A twenty-two-year-old, almost-white-haired female. Quiet and pensive. Helpful and altruistic. Wants to protect and inspire others so they achieve at least a portion of their potential. Skinny but muscular to the point of utility. Not obsessed with girly status, but could stunningly sport a ballroom gown.
 
@@ -10,7 +10,7 @@ Nis' friend and Beckoning mentor. He's older than Nis by nine years making him t
 
 ##VOCABULARY##
 
-**Talon**
+**Talon**
 
 The city in which the story takes place.
 
@@ -22,7 +22,7 @@ The "protector" teachers who preside over Talon in a sort of council. In the pas
 
 The mentor's who prepare Fledglings for the Beckoning and eventual Pinion ordination. Serifs train in basic magics, advanced swordplay, and general character development.
 
-**Beckoning**
+**Beckoning**
 
 A right of passage in Talon. Every citizen, male and female, who wishes to be a Pinion (which is not common) must pass the test. Citizens may begin the Beckoning process at age twenty-one.
 
@@ -30,7 +30,7 @@ A right of passage in Talon. Every citizen, male and female, who wishes to be a 
 
 Someone currently participating in or preparing for the Beckoning. Fledglings wear red hoods during the training process and a red scarf during the Beckoning.
 
-**Prenen**
+**Prenen**
 
 The magic system used by Pinion. Prenen is a process of pleading with the elements through emotion to respect your wishes. Prenen will not function offensively. It must be used in defense or in an otherwise passive manner. The most common Prenen is healing of sickness and/or injury. All things considered, Prenen magic is rather weak.
 
